@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好呀 👋
 
 <!--
 **NooneSai/NooneSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
